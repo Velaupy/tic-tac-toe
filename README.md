@@ -2,4 +2,4 @@
 
 Program.cs = source code
 
-tictactoe.exe = built application
+publish = published application (.NET SDK required [https://dotnet.microsoft.com/en-us/download])
